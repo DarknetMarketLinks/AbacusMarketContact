@@ -29,7 +29,7 @@ Abacus Market Contact - your guide to the darknet
 <h2>Abacus Login Process</h2>
   <p>After registering on Abacus Market, logging in is simple yet secure. Begin by entering your username and password on the login page, which can be accessed through the official onion URL or one of the trusted mirror links. For enhanced protection, Abacus Market employs Two-Factor Authentication (2FA) using a PIN. After entering your password, you’ll be prompted to provide the 6-digit PIN you created during registration. This serves as an additional security layer to prevent unauthorized access. If you have enabled PGP-based 2FA, you will also need to decrypt a message using your PGP key for login. Always verify your personal phrase on the login page to ensure you’re using the legitimate Abacus Market and not a phishing site.</p>
 <p>Abacus links:</p>
-<a href="http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion/">4pt4axzjzdurybamrjou7a2wawtfwriunjnq2c2nr4byjzm6asidciid.onion</a>
+<a href="http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion/">abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion</a>
   <br>
 <a href="https://abacusmarketcontact.com/">abacusmarketcontact.com</a>
   <br>
