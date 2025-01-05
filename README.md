@@ -3,7 +3,7 @@ Abacus Market Contact - your guide to the darknet
 <body>
 <h1>Welcome to Abacus Market Contact</h1>
   <p>Welcome to the official guide for Abacus Market, a rising star in the darknet space. Here, you'll discover everything you need to successfully navigate Abacus, from securing access through verified onion links to handling transactions smoothly. Whether you’re a buyer or seller, this Contact will help you optimize your experience with Abacus Market's mirror links. Learn how to create an account, securely log in, and manage your purchases or sales safely using Abacus Market's advanced features. From ensuring secure transactions via their escrow system to using their secure onion URLs, this Contact covers all the critical steps to stay safe and anonymous on the darknet.</p>
-  <a href="https://abacusmarketcontact.com/">Abacus link</a>
+  <a href="https://abacusmarketcontact1.com/">Abacus link</a>
 <br>
 <hr>
 <h2>Abacus Market Overview.</h2>
@@ -31,6 +31,6 @@ Abacus Market Contact - your guide to the darknet
 <p>Abacus links:</p>
 <a href="http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion/">abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion</a>
   <br>
-<a href="https://abacusmarketcontact.com/">abacusmarketcontact.com</a>
+<a href="https://abacusmarketcontact1.com/">abacusmarketcontact.com</a>
   <br>
 </body>
